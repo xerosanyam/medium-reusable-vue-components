@@ -38,8 +38,8 @@ export default {
 <style>
 th {
   text-align: left;
-  padding: 8px;
+  padding: 10px;
   font-size: 13px;
-  color: #8d8d92;
+  color: #ff0000;
 }
 </style>
