@@ -1,7 +1,7 @@
 {
-    "name": "@xerosanyam/footer",
-    "version": "0.0.0",
-    "publishConfig": {
-      "access": "public"
-    }
+  "name": "@xerosanyam/footer",
+  "version": "0.0.1",
+  "publishConfig": {
+    "access": "public"
   }
+}
